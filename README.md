@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Heikal</h1>
-<h3 align="center">Software Development Engineer</h3>
+<h3 align="center">Software Development Engineer | Test Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedheikall&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedheikall" /> </p>
 
-- 📫 How to reach me **aheikal424@icloud.com**
+- 📫 How to reach me: **aheikal424@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
