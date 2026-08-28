@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Heikal</h1>
-<h3 align="center">Test Automation Engineer | QA Engineer</h3>
+<h2 align="center">Test Automation Engineer | QA Engineer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedheikall&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedheikall" />
 </p>
 
-<h5 align="center">
+<h4 align="center">
   I'm a Test Automation Engineer passionate about software quality, test automation, API testing, and performance testing.
-</h5>
+</h4>
 
 <h2>🛠️ Technical Skills</h2>
 
