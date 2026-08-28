@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedheikall&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedheikall" />
 </p>
 
-<p align="center">
+<h5 align="center">
   I'm a Test Automation Engineer passionate about software quality, test automation, API testing, and performance testing.
-</p>
+</h5>
 
 <h2>🛠️ Technical Skills</h2>
 
