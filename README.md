@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Heikal</h1>
-<h2 align="center">Test Automation Engineer | QA Engineer</h2>
+<h2 align="center">ISTQB Certified Test Automation Engineer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedheikall&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedheikall" />
